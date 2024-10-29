@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">HealthConnect</string>
+    <string name="txLogin">Login</string>
+    <string name="txLoginIntr">Please sign in to continue</string>
+    <string name="txLoginDont">Don\'t have an account?</string>
+    <string name="btLogin">Login</string>
+    <string name="btCreateAccount">Create</string>
+    <string name="txCreateAccount">Create Account</string>
+    <string name="txHaveAccount">Already have an account?</string>
+    <string name="btSignin">Sign in</string>
 </resources>
